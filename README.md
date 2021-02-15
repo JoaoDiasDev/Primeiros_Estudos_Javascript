@@ -1,2 +1,2 @@
-# Primeiros_Estudos_Javascript
+# Primeiros Estudos Javascript
  Estudando Javascript
